@@ -8,4 +8,5 @@ minima:
     - bibliographies.md
     - the-laboratory.md
     - training.md
+  skin: solarized
     
