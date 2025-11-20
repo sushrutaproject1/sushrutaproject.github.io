@@ -2,4 +2,4 @@ remote_theme: "jekyll/minima@1e8a445"
 minima:
   nav_pages:
     - about.md
-    - portfolio.md
+    - project_overview.md
