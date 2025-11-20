@@ -3,6 +3,7 @@ title: 'Project Outputs'
 date: '2021-12-18T11:05:00-07:00'
 author: 'Dominik Wujastyk'
 layout: page
+permalink: /project-outputs/
 ---
 
 ## Draft Critical edition
