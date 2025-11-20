@@ -1,12 +1,12 @@
 remote_theme: "jekyll/minima@1e8a445"
 minima:
   nav_pages:
-    - project-overview.md
-    - project-outputs.md
-    - participants.md
-    - the-toolbox.md
-    - bibliographies.md
-    - the-laboratory.md
-    - training.md
-  skin: solarized
-    
+    - 01-project-overview.md
+    - 02-project-outputs.md
+    - 03-participants.md
+    - 04-the-toolbox.md
+    - 05-bibliographies.md
+    - 06-the-laboratory.md
+    - 07-training.md
+ 
+ 
