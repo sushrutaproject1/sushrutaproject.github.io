@@ -2,6 +2,7 @@
 title: 'Working Methods'
 author: 'Dominik Wujastyk'
 layout: page
+permalink: /working-methods/
 ---
 
 This is just a rough sketch for the record. I hope it may be interesting to other electronic-text projects.
