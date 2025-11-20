@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training
-siteNav: true
+nav-order: 7
 nav: true
 dropdown: true
 children:

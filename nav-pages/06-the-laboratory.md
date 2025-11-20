@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Laboratory
-siteNav: true
 nav: true
+nav-order: 6
 dropdown: true
 children:
   - title: 'The evolving new edition (updated weekly)'

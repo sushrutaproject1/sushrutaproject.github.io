@@ -4,7 +4,7 @@ author: 'Dominik Wujastyk'
 layout: page
 permalink: /project-outputs/
 nav: true
-siteNav: true
+nav-order: 2
 ---
 
 ## Draft Critical edition

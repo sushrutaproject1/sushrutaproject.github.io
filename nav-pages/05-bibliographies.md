@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Bibliographies
-siteNav: true
 nav: true
-nav_order: 2
+nav-order: 5
 dropdown: true
 children:
   - title: 'Editions of the Suśrutasaṃhitā'
