@@ -4,7 +4,8 @@ title: Bibliographies
 nav: true
 nav-order: 5
 ---
-
+* Do not remove this line (it will not be displayed)
+{:toc}
 # Editions of the Suśrutasaṃhitā
 
 (A full bibliography to 2002 is available in Meulenbeld, [HIML IB, p.311-314](https://archive.org/stream/Meulenbeld-HIML/HIML_1B#page/311/mode/2up/search/narendra).)

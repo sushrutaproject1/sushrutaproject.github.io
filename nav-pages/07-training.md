@@ -4,7 +4,8 @@ title: Training
 nav-order: 7
 nav: true
 ---
-
+* Do not remove this line (it will not be displayed)
+{:toc}
 # Digital humanities
 
 The theories and techniques of Digital Humanities have become ever-more central to scholarly projects in the twenty-first century. But how do early-career scholars gain expertise and understanding in DH? The 2021 publication by Benatti et al., “Learning Digital Humanities in a Community of Practice,” offers important observations about in-project training in Digital Humanities as an alternative to dedicated DH education. The Suśruta Project offers intensive on-the-job training to its participants on this model.

@@ -4,7 +4,8 @@ title: The Toolbox
 nav-order: 4
 nav: true
 ---
-
+* Do not remove this line (it will not be displayed)
+{:toc}
 # Prosopography, Manuscripts, e-Texts
 
 The [PanditProject](http://panditproject.org) is a leading prosopographical resource in classical Indian studies. as its method of recording and referrring to information about South Asian intellectual history. The project is headed by Professor [Yigal Bronner](http://yigalbronner.huji.ac.il/) at the Hebrew University of Jerusalem. PanditProject records biographical information about persons, their works and the manuscripts that transmit those works in a network of linked relationships. The PanditProject has been adopted as the principle prosopographical and literary reference resource for the Sushruta Project.
