@@ -25,7 +25,7 @@ he Sushruta Project is using [this Github repository](https://github.com/wujasty
 
 The Github e-texts are world-readable, but may be edited only by  project members.  If you wish to contribute a correction to one of the  files, we would be grateful if you could submit an “[issue](https://github.com/wujastyk/sushrutaproject/issues)” at GitHub.
 
-  ##  Working methods
+##  Working methods
 
 This is just a rough sketch for the record. I hope it may be interesting to other electronic-text projects.
 
