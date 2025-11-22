@@ -11,7 +11,7 @@ nav-order: 2
 
 The evolving online New Critical Edition of the Nepalese version of the *Suśrutasaṃhitā*:
 
-- {% include _includes/saktumiva-toc.md %}
+- {% include saktumiva-toc.md %}
 
 *  [Table of Contents](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start)    
 
