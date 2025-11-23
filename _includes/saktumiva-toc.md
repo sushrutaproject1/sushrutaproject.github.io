@@ -2,7 +2,7 @@
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-This is the online edition and manuscript transcriptions created as part of the [Suśruta Project](http://sushrutaproject.org).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
+This is the online edition and manuscript transcriptions created as part of the [Suśruta Project](http://sushrutaproject1.github.io).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
 
 The TEI XML transcriptions of manuscripts and editions are stored at a [Github project repository](https://github.com/wujastyk/sushrutaproject).
 
