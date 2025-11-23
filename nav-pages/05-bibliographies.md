@@ -16,68 +16,83 @@ nav-order: 5
 The first translation of any part of the *Suśrutasaṃhitā* into a European language appears to be that of John Tytler, “Translation of two chapters of the First Part of the Soosroota" that was sent in a letter dated January 29, 1834, addressed to Capt. Troyer (secretary to the Sanskrit College 1833--1835).  Reproduced in S. N. Sen, “Medical and Technical Education,” in *Scientific and Technical Education in India 1781–1900* (New Delhi: INSA, 1991), ch. 4, pp. 160-161. [DOI](https://doi.org/10.5281/zenodo.17561581).
 
 ### 1835
+{:.no_toc}
 
 Gupta, Sri Madhusudana, ed. 1835. *सुश्रुतः।  आयुर्व्वेदः। भगवता धन्वन्तरिणोपदिष्टः। सुश्रुतनामधेयेन तच्छिष्येण  विरचितः। = The Suśruta, or System of Medicine, Taught by Dhanwantari and Composed by Hist Disciple Suśruta . The Suśruta, or System of Medicine, Taught by Dhanwantari, and Composed by His Disciple Suśruta*. 1st ed. 2 vols. Education Press and Baptist Mission Press. [http://n2t.net/ark:/13960/t6841qw6x](http://n2t.net/ark:/13960/t6841qw6x).
 
 ### 1844
+{:.no_toc}
 
 Hessler, Franz. 1844. *Ayurvédas: Id Est  Medicinae Systema a Venerabili D’Hanvantare Demonstratum a Susruta  Discipulo Compositum; Nunc Primum Ex Sanskrita in Latinum Sermonem  Vertit, Introductionem, Annotationes et Rerum Indice Franciscus Hessler*. Ferdinandum Enke. [https://archive.org/details/b24991806/](https://archive.org/details/b24991806/).
 
 ### 1873
+{:.no_toc}
 
 Bandyopadhya, Ambicachurun. 1873. *Suśrutaḥ ... The Medical Science of the Ancient Aryans. Translated [Into Bengali] and Edited*. Varāṭa Press. [http://n2t.net/ark:/13960/t4km6hz1w](http://n2t.net/ark:/13960/t4km6hz1w).
 
 Jīvānanda Vidyāsāgara Bhaṭṭācāryya, ed. 1873. *[संहिता] सुश्रुतः सूत्र-निदान-शारीर-चिकित्सा-कल्पोत्तरतन्त्र-कल्पितः आयुर्वेदः। भगवता धन्वन्तरिणोपदिष्टः*. Jīvānanda Vidyāsāgara Bhaṭṭācāryya. 
 
 ### 1895
+{:.no_toc}
 
 Muralīdharaśarman, ed. 1895.  श्रीधन्वन्तरिभागवतसमुपदिष्टा, तच्छिष्येण सुश्रुतेन विरचिता  सुश्रुतसंहिता, आरोग्यसुधाकरसम्पादकेन फर्रुखनगरनिवासिना पंडित  मुरलीधरशर्मणा राजवैद्येन सान्वयसटिप्पणिकासपरिशिष्टया भाषाटीकया संभूषिता. 4 vols. Khemarāja Śrīkṛṣṇadāsa at Śrīveṅkaṭeśvara Press. [https://archive.org/details/SushrutaSamhita_201701](https://archive.org/details/SushrutaSamhita_201701).
 
 ### 1913
+{:.no_toc}
 
 Ṭi. Rudrapāraśava. 1913. *अष्टाङ्गसङ्ग्रहः इन्दुव्याख्यासहितः = Aṣṭāṅgasaṅgrahaḥ Induvyākhyāsahitaḥ*. 3 vols. The Mangalodayam Press. ark:/13960/t4cp9zt5c. [https://archive.org/details/Astangasangraha1913-1924](https://archive.org/details/Astangasangraha1913-1924).
 
 ### 1915
+{:.no_toc}
 
 Ācārya, Yādavaśarman Trivikrama, ed. 1915. *सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया  निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन  यादवशर्मणा संशोधिता = The Sushrutasamhita of Sushruta, the  Nibandhasangraha Commentary of Shri Dalhaṇāchārya*. Nirṇayasāgaramudrāyantrālaye.
 
 ### 1931
+{:.no_toc}
 
 Ācārya, Yādavaśarman Trivikrama, ed. 1931. *सुश्रुतसंहिता, वैद्यवरश्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता,  महर्षिणा सुश्रुतेन विरचिता,  सूत्र-निदान-शारीर-चिकित्सा-कल्पस्थानोत्तरतन्त्रात्मकः। आचार्योपाह्वेन  त्रिविक्रमात्मजेन यादवशर्मणा संशोधिता = The Sushrutasaṃhitā of Sushruta with the Nibandhasangraha Commentary of Shree Dalhaṇāchārya*. 2nd ed. Pāṇḍuraṅga Jāvajī at the Nirṇayasāgaramudrāyantrālaye. 
 
 ### 1937
+{:.no_toc}
 
 Senagupta, Narendranātha, and Balāicandra  Senagupta. 1937. सुश्रुतसंहिता, महर्षिसुश्रुताचार्य्यविरचिता  महामुनिनागार्ज्जुनप्रतिसंस्कृता च. 2 vols. Si. Ke. Sena eṇḍ Kompānī  Limiṭeḍ. 
 
 ### 1938
+{:.no_toc}
 
-Ācārya, Yādavaśarman Trivikrama, ed. 1938.  सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया  निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन  यादवशर्मणा संशोधिता. 3rd ed. Nirṇayasāgaramudrāyantrālaye. [https://n2t.net/ark:/13960/s20j9338vs3](https://n2t.net/ark:/13960/s20j9338vs3). 
+Ācārya, Yādavaśarman Trivikrama and Nārāyaṇa Rāma Ācārya, eds. 1938.  सुश्रुतसंहिता, सुश्रुतेन विरचिता, वैद्यवरश्रीडल्हणाचार्यविरचितया  निबन्धसंग्रहाख्यव्याख्यया समुल्लसिता, आचार्योपाह्वेन त्रिविक्रमात्मजेन  यादवशर्मणा संशोधिता. 3rd ed. Nirṇayasāgaramudrāyantrālaye. [https://n2t.net/ark:/13960/s20j9338vs3](https://n2t.net/ark:/13960/s20j9338vs3). 
 
 ### 1939
+{:.no_toc}
 
 Ācārya, Yādavaśarman Trivikrama, and Nandakiśora Śarman, eds. 1939. *सुश्रुतसंहितायाः सूत्रस्थानम् श्रीचक्रपाणिदत्तविरचितया भानुमतीव्याख्यया समेतम् =  Sushrut-Sañhitā (Sūtra Sthān) with Bhānumatī Commentary by Chakrapāṇi  Datta with Introduction by Gaṇanāth Sen*. Vol. 1. Śrīsvāmi Lakṣmīrāma Nidhi Granthamālā = Shrī Swāmī Lakshmī Rām Trust Series. Śyāmasundara Śarman.
 
 ### 1992
+{:.no_toc}
 
 Ācārya, Yādavaśarman Trivikrama, ed. 1992.  सुश्रुतसंहिता, श्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया  निदानस्थानस्य श्रीगयदासाचार्यविरचितया न्यायचन्द्रिकाख्यपञ्जिकाव्याख्यया च समुल्लसिता\ल्दोत्स् आचार्योपाह्वेन त्रिविक्रमात्मजेन यादवशर्मणा ...  संशोधिता. 5th ed. 4 vols. Caukhambhā Oriyanṭāliyā. 
 
 ### 1994
+{:.no_toc}
 
 Thatte, Dinkar Govind. 1994. *Śārīrasthānam: Suśruṭa (Sic) Saṃhitā. Section on the Study of the Human Body*. Chaukhambha Orientalia. 
 
 ### 1999
+{:.no_toc}
 
 Sharma, Priya Vrat. 1999. *Suśruta-Saṃhitā, with English Translation of Text and Ḍalhaṇa’s Commentary Alongwith (Sic) Critical Notes*. Vol. 9. Haridas Ayurveda Series. Chaukhambha Visvabharati. 
 
 ### 2000
+{:.no_toc}
 
 Murthy, K. R. Srikantha. 2000. *Illustrated Suśruta Saṃhitā: Text, English Translation, Notes, Appendices and Index*. Vol. 102. Jaikrishnadas Ayurveda Series. Chaukhambha Orientalia. 
 
 Suvedī, K. S., and N. Tīvārī. 2000. *सौश्रुतनिघण्टुः: ग्रन्थादौ विस्तृतेन ग्रन्थवैशिष्ट्यप्रकाशकेनोपोद्घातेन अवसाने च  द्रव्याणाम् अनेकभाषानाम् आवल्ı̄- पर्यायसङ्ग्रहाभ्यां समलङ्क्र्तः  सुश्रुतसंहितायां प्रयुक्तानाम् औषधद्रव्याणां पर्याय-गुणकर्मवर्णात्मको  पूर्वग्रन्थः*. Mahendrasaṃskr̥taviśvavidyālayaḥ. 
 
 ### 2004
+{:.no_toc}
 
-Ācārya, Yādavaśarma Trivikrama, and Nārāyaṇa  Rāma Ācārya. 2004. महर्षिणा सुश्रुतेन विरचिता सुश्रुतसंहिता,  श्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया निदानस्थानस्य  श्रीगयदासाचार्यविरचितया न्यायचन्द्रिकाख्यपञ्जिकाव्याख्यया च समुल्लसिता.  Caukhambhā Kṛṣṇadāsa Akādamī. 
+Ācārya, Yādavaśarma Trivikrama and Nārāyaṇa Rāma Ācārya, eds. 2004. महर्षिणा सुश्रुतेन विरचिता सुश्रुतसंहिता,  श्रीडल्हणाचार्यविरचितया निबन्धसंग्रहाख्यव्याख्यया निदानस्थानस्य  श्रीगयदासाचार्यविरचितया न्यायचन्द्रिकाख्यपञ्जिकाव्याख्यया च समुल्लसिता.  Caukhambhā Kṛṣṇadāsa Akādamī. (Photographic reprint of 1938 edition.)
 
 # Suśruta-related publications by project participants, 2020-2024
 
