@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+# Tools and systems not currently selected
+
 - [Transkribus](https://readcoop.eu/transkribus/), a platform for the transcription and searching of historical documents.  Transkribus is a mature program that offers powerful features for the  diplomatic transcription of manuscripts.  In some contexts it could help a project like ours to provide a standardized interface for a team of  MS transcribers.  It has many features and veers towards being a  totalizing environment.  At the time of writing (July 2021) the TEI  export is not a good fit for use with Saktumiva.
 - [T-Pen](http://t-pen.org/TPEN/),  provides similar functionality to Transkribus:  a team of inputters  could use a convenient interface to transcript MSS diplomatically.
 - [Edition Visualization Technology](http://evt.labcd.unipi.it/) is “a tool specifically designed to create digital editions from  XML-encoded texts.”  EVT reads a TEI-encoded critical edition (using  parallel segmentation) and displays it with several useful add-on  features.  It can handle hot-linking between text and manuscript image.  There is a [demo available of the text of Avicenna’s Logica](http://evt.labcd.unipi.it/demo/evt2-beta2/avicenna/index.html#/readingTxt?d=doc_1&p=C-112v&s=text-body-div&e=critical).   The EVT2 manual notes that “experimental support for the  double-end-point attached method is under way and will be added to a  future version.”  This may facilitate the use of EVT with the XML output of Saktumiva’s collation.
