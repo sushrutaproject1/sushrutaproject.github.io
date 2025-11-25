@@ -140,7 +140,7 @@ Regarding the style and content of the project documenation, some of the concept
 
 ## Tools not currently selected
 
-A number of tools and systems  have been evaluated but not adopted for the present work-cycles.
+A [number of tools and systems]({% tools-not-selected.md %})  have been evaluated but not adopted for the present work-cycles.
 
 
 
