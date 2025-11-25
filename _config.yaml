@@ -11,4 +11,5 @@ minima:
     - 08-blog-posts.md
   
   hide_site_feed_link: true
+  skin: solarized
  
