@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tools not selected
+permalink: /tools-not-selected/
 ---
 # Tools and projects not currently selected
 
