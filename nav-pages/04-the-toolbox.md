@@ -140,7 +140,10 @@ Regarding the style and content of the project documenation, some of the concept
 
 ## Tools not currently selected
 
-A number of toold and systems  have been evaluated but not adopted for the present work-cycles ({% link _includes/tools-not-selected.md %}).
+A number of tools and systems  have been evaluated but not adopted for the present work-cycles 
+
+[Link to a page]({{ site.baseurl }}{% link tools-not-selected.md  %})
+
 
 
 # Plant databases
