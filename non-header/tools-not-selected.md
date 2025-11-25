@@ -1,8 +1,10 @@
 ---
 layout: page
+title:
 ---
 
-# Tools and systems not currently selected
+The following tools and environments have been evaluated in the context of this project.  They
+have not been adopted for the reasons given.
 
 - [Transkribus](https://readcoop.eu/transkribus/), a platform for the transcription and searching of historical documents.  Transkribus is a mature program that offers powerful features for the  diplomatic transcription of manuscripts.  In some contexts it could help a project like ours to provide a standardized interface for a team of  MS transcribers.  It has many features and veers towards being a  totalizing environment.  At the time of writing (July 2021) the TEI  export is not a good fit for use with Saktumiva.
 - [T-Pen](http://t-pen.org/TPEN/),  provides similar functionality to Transkribus:  a team of inputters  could use a convenient interface to transcript MSS diplomatically.
