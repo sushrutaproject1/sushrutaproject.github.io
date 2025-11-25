@@ -1,6 +1,6 @@
 remote_theme: "jekyll/minima@1e8a445"
 minima:
-nav_pages:
+  nav_pages:
     - 01-project-overview.md
     - 02-project-outputs.md
     - 03-participants.md
@@ -9,4 +9,6 @@ nav_pages:
     - 06-the-laboratory.md
     - 07-training.md
     - 08-blog-posts.md
+  
+  hide_site_feed_link: true
  
