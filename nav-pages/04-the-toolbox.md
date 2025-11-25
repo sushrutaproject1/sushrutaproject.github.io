@@ -23,7 +23,7 @@ A possible manuscript of the lost [commentary by Jejjaṭa](https://www.panditpr
 
 The [*Nyāyacandrikā*](https://www.panditproject.org/entity/108025/work) of Gayadāsa, an important and very early commentary (including a previously unknown MS in Bikaner)
 
-# Manuscript discovery and documentation
+## Manuscript discovery and documentation
 
 - [The Nepal-German Manuscript Preservation Project](https://www.aai.uni-hamburg.de/en/forschung/ngmcp/history/about-ngmpp.html) (1970-2002; the “NGMPP”; historical sketch by [Ehrhard (1991)](http://himalaya.socanth.cam.ac.uk/collections/journals/ebhr/pdf/EBHR_02_03.pdf)).
 - [The Nepal-German Manuscript Cataloguing Project](https://www.aai.uni-hamburg.de/en/forschung/ngmcp) (2002-2014; the “NGMCP”).
@@ -140,7 +140,7 @@ Regarding the style and content of the project documenation, some of the concept
 
 ## Tools not currently selected
 
-A [number tools and systems](https://sushrutaproject.org/tools-and-projects-not-currently-selected/) have been evaluated but not adopted for the present work-cycles.
+A [number tools atnd systems](https://sushrutaproject1.github.io/tools-not-selected/) have been evaluated but not adopted for the present work-cycles.
 
 # Plant databases
 
