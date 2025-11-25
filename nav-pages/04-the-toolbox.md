@@ -142,7 +142,7 @@ Regarding the style and content of the project documenation, some of the concept
 
 A number of tools and systems  have been evaluated but not adopted for the present work-cycles 
 
-[Link to a page]({{ site.baseurl }}{% link _includes/tools-not-selected.md  %})
+[Link to a page]({% link tools-not-selected.md  %})
 
 
 
