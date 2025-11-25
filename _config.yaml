@@ -13,6 +13,6 @@ minima:
 #  
 #  hide_site_feed_link: true
 #  skin: solarized
-  include:
-    - non-header
+include:
+  - non-header
  
