@@ -1,5 +1,5 @@
 ---
-title: 'Project participants'
+title: 'Participants'
 date: '2020-10-03'
 author: 'Dominik Wujastyk'
 layout: page

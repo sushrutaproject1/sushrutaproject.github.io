@@ -1,5 +1,5 @@
 ---
-title: 'Project Outputs'
+title: 'Outputs'
 author: 'Dominik Wujastyk'
 layout: page
 permalink: /project-outputs/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Overview
+title: Overview
 permalink: /project_overview/
 nav: true
 nav-order: 1
